@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://freefrontend.com/assets/img/css-triangle-backgrounds/2-triangles-background.png);
+    background-repeat: no-repeat, repeat;
+}
+
+.nameBot{
+    padding-top: 150px;
+    font-size: x-large;
+}
+
+.imgbot{
+    padding-left: 620px;
+    margin-top: 200px;
+}
+
+.footer{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.title{
+    font-size: x-large;
+    float: right;
+    background-color: rgb(255, 255, 255);
+    
+    margin: 0 auto;
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    font-size: x-large;
+    float: left;
+    margin-right: 20px;
+    text-decoration: none;
+    color: rgb(0, 132, 255);
+    background-color: white;
+    padding: 9px;
+    border-radius: 10000px;
+}
+
